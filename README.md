@@ -1,7 +1,7 @@
 # birthdayTgRs
-First project in rust with the purpose to create a telegram bot which interract with a database.
+First project in Rust with the purpose to create a Telegram bot which interacts with a database.
 
-The purpose of the bot is to accumulate birthday with the command:
+The purpose of the bot is to accumulate birthday dates with the command:
 ```
 /add Name day-of-the-month month-of-the-year reminder-delay
 ```
